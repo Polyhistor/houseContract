@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729659727.02407 "/home/pouya/Desktop/Projects/house-agreements/main.tex" "main.pdf" "main" 1729659727.26575 0
-  "/home/pouya/Desktop/Projects/house-agreements/main.tex" 1729659726.62878 8152 6ab4a580c8987bba2ee81dca23c844e2 ""
+["pdflatex"] 1729660291.37499 "/home/pouya/Desktop/Projects/house-agreements/House-Contract.tex" "House-Contract.pdf" "House-Contract" 1729660291.75098 0
+  "/home/pouya/Desktop/Projects/house-agreements/House-Contract.tex" 1729660290.78574 8152 6ab4a580c8987bba2ee81dca23c844e2 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1716849630 1536 c09172c8f235393e6235bb4758357c41 ""
@@ -36,10 +36,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1728538024.22204 5348759 dfe08144b61d8479865bf6763562e93d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1728537976 7143268 d39d1f519006938a227d3a377b867c40 ""
-  "main.aux" 1729659727.24212 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
-  "main.tex" 1729659726.62878 8152 6ab4a580c8987bba2ee81dca23c844e2 ""
+  "House-Contract.aux" 1729660291.71908 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "House-Contract.tex" 1729660290.78574 8152 6ab4a580c8987bba2ee81dca23c844e2 ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
+  "House-Contract.aux"
+  "House-Contract.log"
+  "House-Contract.pdf"
   (rewritten before read)
